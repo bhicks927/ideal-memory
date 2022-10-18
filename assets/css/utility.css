@@ -8,3 +8,7 @@
     flex-direction: row;
     flex-wrap: wrap;
 }
+
+.ta-c {
+    text-align: center;
+}
