@@ -28,8 +28,8 @@ document.getElementById('generate').addEventListener('click', (e) => {
 // Send prompts and confirm windows to the user to set the criteria for password to be generated
 const getCriteria = (pass) => {
   // returns the length of the password if the data is valid, otherwise recursively calls itself to keep prompting until the valid data is entered.
+  let length = 0;
   let validateLength = () => {
-    let length = 0;
     length = prompt(LENGTH_PROMPT);
     console.log(length);
     // checks if the prompt value is a number
