@@ -1,7 +1,7 @@
 // Arrays containing all possible characters from each type of character
 const letters = 'abcdefghijklmnopqrstuvwxyz';
 const numbers = '012356789';
-const specialChars = '!@#$%^&*()-_=+~';
+const specialChars = '!@#$%^&*()-_=+~[]\",./:;<>?';
 const LENGTH_PROMPT = "Enter a number between 8 and 128";
 
 
