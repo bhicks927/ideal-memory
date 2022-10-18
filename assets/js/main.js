@@ -70,9 +70,6 @@ const getCriteria = (pass) => {
 // Generates a password from the data passed from the pass (Object) parameter
 const generatePassword = (pass) => {
   let length = pass.length;
-  if (isNaN(length)) {
-    length = 8;
-  }
   let acceptedChars = ''
   let lower = pass.lower;
   let upper = pass.upper;
