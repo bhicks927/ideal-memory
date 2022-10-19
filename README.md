@@ -13,4 +13,4 @@ When asked for the length of the password, the input will be validated to make s
 
 ## Preview
 
-![alt text](https://github.com/bhicks927/password-generator/blob/main/78deda48349b72c06d1a8abaca031df8.png)
+![alt text](https://github.com/bhicks927/ideal-memory/blob/main/78deda48349b72c06d1a8abaca031df8.png)
