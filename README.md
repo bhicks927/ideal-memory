@@ -1,4 +1,4 @@
-# password-generator
+# Ideal-Memory
 
 This web application will generate a secure password based on criteria given by the user from a series of browser prompts.
 
